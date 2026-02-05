@@ -1,5 +1,5 @@
 remote_theme: devich/quick@0.0.1
-title: Orange and Date Cake
-theme_color: indigo
 plugins: 
   - jekyll-remote-theme # add this line to the plugins list if you already have one  
+title: Orange and Date Cake
+theme_color: indigo
