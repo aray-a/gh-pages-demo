@@ -1,3 +1,5 @@
+![Cake on Table](images/orange_date_cake.png)
+
 # Ida Bailey Allen's Orange and Date Cake
 ## Orange and Date Cake
 
